@@ -1,0 +1,15 @@
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+G:\IT\GB\Знакомство с языком программирования C#\Лекция 1\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
